@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @akshaysd07
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning Javascript, Python
+- 🌱 I’m currently learning Javascript, React, Node and Express, MongoDb
 - 💞️ I’m looking to collaborate on ...
 - 📫 reach me @8806951561
 <!---
