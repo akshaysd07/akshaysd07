@@ -1,12 +1,12 @@
-<!----Hi, 👋  I’m Akshay
+Hi, 👋  I’m Akshay
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Javascript, React, Node and Express, MongoDb
 - 💞️ I’m looking for MERN STACK Development jobs
 - 📫 reach me @8806951561
 
-akshaysd07/akshaysd07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!----akshaysd07/akshaysd07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+
 # Hi there, I'm Akshay - aka [akshaysd07]👋 
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCDCHcqyeQgJ-jVSd6VJkbCw?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
@@ -126,7 +126,7 @@ You can click the Preview link to take a look at your changes.
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
-
+--->
       
     
 
