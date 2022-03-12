@@ -1,4 +1,4 @@
-Hi, 👋  I’m Akshay
+# Hi there, I'm Akshay - aka [akshaysd07]👋 
 
 ### Languages and Tools:
 
