@@ -20,8 +20,8 @@
 <br />
 
 ---
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Javascript, React, Node and Express, MongoDb
+- 👀 I’m interested in React Developement, Mysql and MongoDB
+- 🌱 I’m currently working on React, Node and Express, MongoDb
 - 💞️ I’m looking for MERN STACK Development jobs
 - 📫 reach me @8806951561
 
