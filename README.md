@@ -20,9 +20,9 @@
 <br />
 
 ---
-- 👀 I’m interested in React Developement, Mysql and MongoDB
-- 🌱 I’m currently working on React, Node and Express, MongoDb
-- 💞️ I’m looking for MERN STACK Development jobs
+- 👀 I’m interested in Data Analysis with SQL, python and tableau/power BI.
+- 🌱 I’m currently working on Microsoft Excel, SQL,React.
+- 💞️ I’m looking for Data Analyst position.
 - 📫 reach me @8806951561
 
 <!----akshaysd07/akshaysd07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
