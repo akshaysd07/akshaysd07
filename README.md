@@ -24,7 +24,7 @@
 
 ---
 - 👀 I’m interested in Data Analysis with SQL, python and tableau/power BI.
-- 🌱 I’m currently working on Microsoft Excel, SQL,React.
+- 🌱 I’m currently working on Microsoft Excel, SQL, Python, Power BI, Tableau,React.
 - 💞️ I’m looking for Data Analyst position.
 - 📫 reach me @8806951561
 
