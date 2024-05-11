@@ -4,7 +4,7 @@
 
 I am an Engineering graduate 🎓 with a strong background in data analysis 💻 and experience in exploratory data analysis, data visualization, data cleaning and statistics 🔥. Currently, I am working as a **IT Profeessional** 🧑‍🔬 at the [**Poornawadi Nagrik Sahakari Bank **](https://poornawadibank.com/) 🏛️. As I am passionate about learning new topics in data science, visualizing data, and conducting research 🤓, I enjoy sharing valuable insights 🧐 and making an impact that helps others learn. Currently I am looking for new role as Data analyst.
 
-<p><a href="https://www.facebook.com/mirsazzathossainn/"><img src="https://img.shields.io/badge/facebook-%231DA1F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/akshaydeshmukh07/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="mailto:akkisd007@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a> </p>
+<p><a href="https://www.facebook.com//"><img src="https://img.shields.io/badge/facebook-%231DA1F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/akshaydeshmukh07/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="mailto:akkisd007@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a> </p>
 
 
 ## 🛠️ Languages and Tools I use:
