@@ -9,7 +9,7 @@
 
 ## 🛠️ Languages and Tools I use:
 
-<img align="left" alt="python" width="26px" src="https://img.shields.io/badge/Certification-CISA-gold?style=for-the-badge&logo=isaca" style="padding-right:10px;" />
+<img align="left" alt="CISA" width="30px" src="https://img.shields.io/badge/Certification-CISA-gold?style=for-the-badge&logo=isaca" style="padding-right:10px;" />
 <img align="left" alt="python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="padding-right:10px;" />
 <img align="left" alt="powerbi" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/minitab/minitab-plain.svg"style="padding-right:10px;" />
 <img align="left" alt="sql" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" style="padding-right:10px;" />
