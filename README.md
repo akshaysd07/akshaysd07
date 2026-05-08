@@ -33,11 +33,11 @@
 
 <img align="right" src="https://github.com/akshaysd07/akshaysd07/blob/main/octocat-anime.gif" />
 
-- 🔭 I’m currently working on multiple projects on Data Analysis.
-- 🧮 I’m currently learning machine learning.
-- 👯 I’m looking for Data Analyst Role.
+- 🔭 I’m currently working on multiple projects VAPT, IS Audit and compliance.
+- 🧮 I’m currently implementing Email Phishing Simulation.
+- 👯 I’m looking for Auditor, Cyber Security Role.
 - 💬 Ask me about anything related to the latest tech.
-- 📫 How to reach me: [Gmail](mailto:akkisd007@gmail.com)
-- 🧾 Check out my [resume](https://github.com/akshaysd07/akshaysd07/blob/main/Analyst%20resume-1.pdf).
+- 📫 How to reach me: [Gmail](mailto:akshaydeshmukh0105@gmail.com)
+<!--- 🧾 Check out my [resume](https://github.com/akshaysd07/akshaysd07/blob/main/Analyst%20resume-1.pdf).-->
 
 
