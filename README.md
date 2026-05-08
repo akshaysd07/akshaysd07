@@ -2,17 +2,17 @@
 
 ## Hi there, <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></a> Akshay - aka [akshaysd07]👋 <a href="https://wakatime.com/@fe38a003-9d88-400e-b624-e41ac19ee0d4"><img src="https://wakatime.com/badge/user/fe38a003-9d88-400e-b624-e41ac19ee0d4.svg" alt="Total time coded since Sep 29 2020" height="20px" /></a> <img src="https://komarev.com/ghpvc/?username=mirsazzathossain" height="20px">
 
-Hi, I'm [Your Name] 👋
+Hi, I'm Akshay Deshmukh 👋
 
-    I am a CISA Certified Professional specializing in IT Governance, Risk Management, and Systems Auditing. I bridge the gap between technical security vulnerabilities and business risk.
-
+    I am a CISA Certified Professional specializing in IT Governance, Risk Management, and Systems Auditing. 
+    I bridge the gap between technical security vulnerabilities and business risk.
 🛡️ Core Expertise:
 
-    Audit Domains: ITGC, SDLC Audits, Disaster Recovery, Network Security.
+    Audit Domains: ITGC, Disaster Recovery, Network Security.
 
-    Compliance: ISO 27001, GDPR, SOC2, HIPAA.
+    Compliance: ISO 27001, IS security, SOC2, HIPAA.
 
-    Technical: VAPT, Log Analysis (SIEM), Cloud Security (AWS/Azure).
+    Technical: VAPT, Log Analysis (SIEM), Application Security.
 
 <p><a href="https://www.facebook.com//"><img src="https://img.shields.io/badge/facebook-%231DA1F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/akshaydeshmukh07/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="mailto:akkisd007@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a> </p>
 
